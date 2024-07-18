@@ -9,4 +9,5 @@ const StyledLink = styled(Link)`
     justify-content: center;
 `
 
+
 export default StyledLink

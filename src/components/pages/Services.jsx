@@ -1,8 +1,10 @@
+import StyledSection from "../atoms/StyledSection"
+
 const Services = () =>{
     return (
-        <>
-            Services
-        </>
+        <StyledSection>
+            SERVICIOS
+        </StyledSection>
     )
 }
 

@@ -1,8 +1,10 @@
+import StyledSection from "../atoms/StyledSection"
+
 const AboutUs = () => {
     return(
-        <>
-            Nosotros
-        </>
+       <StyledSection>
+            NOSOTROS
+       </StyledSection>
     )
 }
 

@@ -10,6 +10,7 @@
     margin-right: 15px;
 }
 
+
 .title{
     font-size: 2rem;
     font-weight: 400;
@@ -19,4 +20,14 @@
     border-radius: 50%;
     max-width: 60px;
     padding: 5px;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
 }
